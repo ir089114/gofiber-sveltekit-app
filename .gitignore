@@ -1,0 +1,13 @@
+# Dependencies
+node_modules
+/.svelte-kit
+/build
+/dist
+
+# Logs and binaries
+*.log
+*.out
+*.exe
+
+# Golang binary
+/gofiber-sveltekit-app
